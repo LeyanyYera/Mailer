@@ -34,7 +34,7 @@
 }
 
 .img_main{
-    margin-top: 6px; width: 100%
+    width: 96%
 }
 
 .inmortal_romance {
@@ -87,15 +87,15 @@
 .continue {
     margin-top: 15px; 
     width: 170px; 
-    border: 1px solid yellow; 
-    color: #0b4004;
-    background-image: url("../images/continue hover.png");
+    border: 1px solid yellow;
+    color: white;
+    background-image: url("../images/continue.png");
     font-size: 20px; 
     border-radius: 0px 0px 0px 0px;
     font-family: 'Lato-BoldItalic';"
 }
 
 button.continue:hover {
-    background-image: url('../images/continue.png'); 
-    color: white; 
+    background-image: url('../images/continue hover.png'); 
+     color: #0b4004;
 }
